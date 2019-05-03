@@ -47,7 +47,7 @@ A user of your app must be able to do the following things:
 
 ## Deliverables and How to Approach
 
-For this challenge it is important to work iteratively: one feature at a time, before moving on to the next. You should **prioritize making code that works over attempting all of the deliverables.** It is better to have a handfull of fully working features than 10 things that were attempted but do not work.
+For this challenge it is important to work iteratively: one feature at a time, before moving on to the next. You should **prioritize making code that works over attempting all of the deliverables.** It is better to have a handful of fully working features than 10 things that were attempted but do not work.
 
 We have provided a series of prioritized steps to help you break down your approach this problem:
 
